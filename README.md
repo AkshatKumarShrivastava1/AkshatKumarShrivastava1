@@ -1,80 +1,96 @@
+<!--
+  Paste this file as README.md in your GitHub profile repository:
+  https://github.com/AkshatKumarShrivastava1/AkshatKumarShrivastava1
+-->
+
 # 👋 Hi, I'm Akshat Kumar Shrivastava
 **Full Stack Developer (MERN) · AI Integrator · Open Source Contributor**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-AveryCare-blue?style=for-the-badge&logo=vercel)](https://averycare-full.vercel.app)
+[![Website](https://img.shields.io/badge/Portfolio-AveryCare-blue?style=for-the-badge&logo=web)](https://averycare-full.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Akshat%20Kumar%20Shrivastava-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/akshat-kumar-shrivastava)
-[![GitHub](https://img.shields.io/badge/GitHub-AkshatKumarShrivastava1-black?style=for-the-badge&logo=github)](https://github.com/AkshatKumarShrivastava1)
+[![GitHub](https://img.shields.io/badge/GitHub-AkshatKumarShrivastava1-181717?style=for-the-badge&logo=github)](https://github.com/AkshatKumarShrivastava1)
+[![LeetCode](https://img.shields.io/badge/LeetCode-akshatshri03-ffa116?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/akshatshri03)
+[![GfG](https://img.shields.io/badge/GeeksforGeeks-akshatshri-green?style=for-the-badge&logo=geeksforgeeks)](https://www.geeksforgeeks.org/user/akshatshri)
 
 ---
 
 ## 👨‍💻 About Me
-I’m a B.Tech IT student passionate about **building scalable web apps** using the MERN stack and integrating **AI-powered features**. I love solving real-world problems and turning ideas into production-ready solutions.  
+I’m a B.Tech (Information Technology) student building **scalable MERN applications** and integrating AI into product flows. I enjoy converting ideas into working products — especially those that combine AI and developer-first tooling (Twilio, Gemini AI, Stripe).
 
-- 🔭 Currently working on **AveryCare – AI-powered healthcare platform**  
-- 🚀 Built **QuickBlog** (AI blogging platform) and **QuickGPT** (AI chat + Stripe monetization)  
-- 🌱 Learning **System Design & Advanced Backend Concepts**  
-- ♟ Chess enthusiast – Played at division level twice  
+- 🔭 I’m currently working on **AveryCare** — an AI-powered healthcare platform.  
+- 🌱 I recently completed **MERN training at Apna College** and multiple AI integrations using Gemini & Stability AI.  
+- ⚡ Fun fact: Played chess at division level twice.
 
 ---
 
 ## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,js,html,css,tailwind,java,git,github,postman,vercel" />
-</p>
+**Languages & Runtimes:** JavaScript, Java, Node.js  
+**Frontend:** React, Tailwind CSS, HTML5, CSS3  
+**Backend:** Express.js, REST APIs, JWT (Auth)  
+**Databases:** MongoDB, SQL  
+**Dev & Deploy:** Git, GitHub, Postman, Vercel, Render  
+**AI & Integrations:** OpenAI / Gemini, Stability AI, Twilio, Stripe
 
 ---
 
 ## 📂 Featured Projects
 
-### 🩺 AveryCare – *AI-Powered Healthcare Platform*  
+### 🔷 AveryCare — *AI-Powered Healthcare Platform*  
 **Tech:** MERN, Gemini AI, Twilio  
-🔗 **Live:** [averycare-full.vercel.app](https://averycare-full.vercel.app)  
-📦 **Code:** [GitHub Repo](https://github.com/AkshatKumarShrivastava1/Averycare-full)  
-
-- AI-powered call scheduling & Twilio notifications  
-- Admin dashboard with full CRUD controls  
-- AI-generated call summaries (reduced manual logging by 60%)  
+**Live:** https://averycare-full.vercel.app · **Code:** https://github.com/AkshatKumarShrivastava1/Averycare-full  
+**Highlights:**
+- AI-powered call scheduling + notifications via Twilio.
+- Admin dashboard for user & call management.
+- Gemini AI generates call summaries to reduce manual logging.
 
 ---
 
-### ✍️ QuickBlog – *AI Blogging Platform*  
+### ✍️ QuickBlog — *AI Blogging Platform*  
 **Tech:** MERN, Gemini API, Stability AI  
-🔗 **Live:** [quick-blog.vercel.app](https://quick-blog-cyan-sigma.vercel.app)  
-📦 **Code:** [GitHub Repo](https://github.com/AkshatKumarShrivastava1/QuickBlog)  
-
-- Automated SEO content & image generation  
-- Admin panel for post management  
-- Real-time comments with MongoDB  
-
----
-
-### 🤖 QuickGPT – *GPT Chat & Credits Platform*  
-**Tech:** MERN, OpenAI API, Stripe  
-🔗 **Live:** [quick-gpt.vercel.app](https://quick-gpt-ai-powered-project-ep8m.vercel.app)  
-📦 **Code:** [GitHub Repo](https://github.com/AkshatKumarShrivastava1/QuickGpt-AI-Powered-Project)  
-
-- GPT-powered chat with real-time responses  
-- Stripe checkout for credit monetization  
-- JWT authentication & secure sessions (tested with 50+ demo users)  
+**Live:** https://quick-blog-cyan-sigma.vercel.app · **Code:** https://github.com/AkshatKumarShrivastava1/QuickBlog  
+**Highlights:**
+- Automated SEO content generation & image generation.
+- Admin panel for post moderation and analytics.
+- Real-time comments using MongoDB.
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=AkshatKumarShrivastava1&show_icons=true&theme=default" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkshatKumarShrivastava1&layout=compact" />
-</p>
-
----
-
-## 📫 Contact
-- 📧 **Email:** akshatshri008@gmail.com  
-- 🔗 **LinkedIn:** [linkedin.com/in/akshat-kumar-shrivastava](https://linkedin.com/in/akshat-kumar-shrivastava)  
-- 🌐 **Portfolio:** [averycare-full.vercel.app](https://averycare-full.vercel.app)  
+### 🤖 QuickGPT — *GPT Chat & Credits Platform*  
+**Tech:** MERN, OpenAI, Stripe, JWT  
+**Live:** https://quick-gpt-ai-powered-project-ep8m.vercel.app/ · **Code:** https://github.com/AkshatKumarShrivastava1/QuickGpt-AI-Powered-Project  
+**Highlights:**
+- GPT-based chat with real-time responses.
+- Stripe integration for credit purchase and monetization flows.
+- Session security with JWT; tested with 50+ demo users.
 
 ---
 
-⭐ **If you like my work, consider starring my repositories and following me on GitHub!**
+## 📈 GitHub Stats
+
+[![Akshat's GitHub stats](https://github-readme-stats.vercel.app/api?username=AkshatKumarShrivastava1&show_icons=true&theme=radical)](https://github.com/AkshatKumarShrivastava1)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AkshatKumarShrivastava1&layout=compact&theme=radical)](https://github.com/AkshatKumarShrivastava1)
+
+> Tip: If you want different themes, see https://github.com/anuraghazra/github-readme-stats
+
+---
+
+## 🚀 How to run my projects (quick start)
+> Example: Running a typical MERN project (replace repo, env vars as needed)
+
+```bash
+# Frontend
+git clone https://github.com/AkshatKumarShrivastava1/QuickGpt-AI-Powered-Project.git
+cd QuickGpt-AI-Powered-Project/client
+npm install
+# create .env with REACT_APP_API_URL and keys
+npm run dev
+
+# Backend (in another terminal)
+cd ../server
+npm install
+# create .env with MONGO_URI, JWT_SECRET, STRIPE_SECRET_KEY, OPENAI_KEY, TWILIO_*
+npm run dev
+
 
