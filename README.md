@@ -5,7 +5,6 @@
 
 # 👋 Hi, I'm Akshat Kumar Shrivastava
 **Full Stack Developer (MERN) · AI Integrator · Open Source Contributor**
-![Alt Text](https://camo.githubusercontent.com/c4ca4c87729455db559b16222365a6a2aea4b1b5edc0bbdf37a5386a58afef54/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d616e756a38393138266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174)
 
 [![Website](https://img.shields.io/badge/Portfolio-AveryCare-blue?style=for-the-badge&logo=web)](https://averycare-full.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Akshat%20Kumar%20Shrivastava-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/akshat-kumar-shrivastava)
