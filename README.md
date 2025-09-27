@@ -25,7 +25,29 @@ I’m a B.Tech (Information Technology) student building **scalable MERN applica
 
 ## 🛠️ Tech Stack
 
-**Languages & Runtimes:** JavaScript, Java, Node.js  
+
+<div style="display: flex; align-items: center; gap: 20px;">
+
+  <!-- Tech Stack Text -->
+  <div>
+    ## 🛠️ Tech Stack
+
+    **Languages & Runtimes:** JavaScript, Java, Node.js<br>
+    **Frontend:** React, Tailwind CSS, HTML5, CSS3<br>
+    **Backend:** Express.js, REST APIs, JWT (Auth)<br>
+    **Databases:** MongoDB, SQL<br>
+    **Dev & Deploy:** Git, GitHub, Postman, Vercel, Render<br>
+    **AI & Integrations:** OpenAI / Gemini, Stability AI, Twilio, Stripe
+  </div>
+
+  <!-- Image -->
+  <div>
+    <img src="https://camo.githubusercontent.com/f712e4dd458b08466632e714e95ec3b3dc830afb9003f5d97422a3f48795e193/68747470733a2f2f6d656469612e74656e6f722e636f6d2f4969655a5573716f594377414141414d2f646576656c6f7065722e676966" alt="Developer GIF" width="150"/>
+  </div>
+
+</div>
+
+**Languages & Runtimes:** JavaScript, Java, Node.js                                    
 **Frontend:** React, Tailwind CSS, HTML5, CSS3  
 **Backend:** Express.js, REST APIs, JWT (Auth)  
 **Databases:** MongoDB, SQL  
