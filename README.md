@@ -1,32 +1,4 @@
-MasterHead
-
-Hi 👋, I'm Anuj Mishra
-A passionate full stack developer from India
-Coding
-
-anuj8918
-
-anujmishra5803
-
-🔭 I’m currently working on Personal News Aggregator
-
-🌱 I’m currently learning React Native
-
-💬 Ask me about MERN
-
-📫 How to reach me anujm8918@gmail.com
-
-Connect with me:
-anujmishra5803 anuj-mishra-9ba5a2249 anujm8918 anujmj6ip
-
-Languages and Tools:
-bootstrap c cplusplus css3 express html5 java javascript mongodb mysql nodejs react tailwind
-
-anuj8918
-
- anuj8918
-
-anuj8918<!--
+<!--
   Paste this file as README.md in your GitHub profile repository:
   https://github.com/AkshatKumarShrivastava1/AkshatKumarShrivastava1
 -->
