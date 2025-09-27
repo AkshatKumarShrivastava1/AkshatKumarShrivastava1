@@ -72,7 +72,6 @@ I’m a B.Tech (Information Technology) student building **scalable MERN applica
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AkshatKumarShrivastava1&layout=compact&theme=radical)](https://github.com/AkshatKumarShrivastava1)
 
-> Tip: If you want different themes, see https://github.com/anuraghazra/github-readme-stats
 
 ---
 
