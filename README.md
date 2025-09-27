@@ -1,95 +1,109 @@
 <!--
-  Paste this file as README.md in your GitHub profile repository:
+  Place this file as README.md in your profile repo:
   https://github.com/AkshatKumarShrivastava1/AkshatKumarShrivastava1
 -->
 
-# 👋 Hi, I'm Akshat Kumar Shrivastava
-**Full Stack Developer (MERN) · AI Integrator · Open Source Contributor**
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&center=true&vCenter=true&width=550&lines=Hi+👋,+I'm+Akshat+Kumar+Shrivastava;Full+Stack+Developer+%7C+MERN+Stack+%7C+AI+Enthusiast;Let's+Build+Something+Amazing+Together!🚀" alt="Typing SVG">
+</p>
 
-[![Website](https://img.shields.io/badge/Portfolio-AveryCare-blue?style=for-the-badge&logo=web)](https://averycare-full.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Akshat%20Kumar%20Shrivastava-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/akshat-kumar-shrivastava)
-[![GitHub](https://img.shields.io/badge/GitHub-AkshatKumarShrivastava1-181717?style=for-the-badge&logo=github)](https://github.com/AkshatKumarShrivastava1)
-[![LeetCode](https://img.shields.io/badge/LeetCode-akshatshri03-ffa116?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/akshatshri03)
-[![GfG](https://img.shields.io/badge/GeeksforGeeks-akshatshri-green?style=for-the-badge&logo=geeksforgeeks)](https://www.geeksforgeeks.org/user/akshatshri)
+<p align="center">
+  <a href="https://averycare-full.vercel.app"><img src="https://img.shields.io/badge/Portfolio-AveryCare-blue?style=for-the-badge&logo=google-chrome"></a>
+  <a href="https://linkedin.com/in/akshat-kumar-shrivastava"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="https://github.com/AkshatKumarShrivastava1"><img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"></a>
+</p>
 
 ---
 
-## 👨‍💻 About Me
-I’m a B.Tech (Information Technology) student building **scalable MERN applications** and integrating AI into product flows. I enjoy converting ideas into working products — especially those that combine AI and developer-first tooling (Twilio, Gemini AI, Stripe).
+## 👨‍💻 About Me  
+<img align="right" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-- 🔭 I’m currently working on **AveryCare** — an AI-powered healthcare platform.  
-- 🌱 I recently completed **MERN training at Apna College** and multiple AI integrations using Gemini & Stability AI.  
-- ⚡ Fun fact: Played chess at division level twice.
+- 🎓 **B.Tech IT** student at **Acropolis Institute of Tech & Research, Indore**  
+- 💻 MERN Stack Developer with hands-on **AI Integrations** (Gemini, OpenAI, Stability AI)  
+- 🔧 Skilled at **building scalable, production-ready apps** with secure APIs & payments  
+- ♟ Played chess at division level — love strategy & problem-solving  
+- 🌱 Currently learning **System Design & Advanced Backend patterns**  
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages & Runtimes:** JavaScript, Java, Node.js  
-**Frontend:** React, Tailwind CSS, HTML5, CSS3  
-**Backend:** Express.js, REST APIs, JWT (Auth)  
-**Databases:** MongoDB, SQL  
-**Dev & Deploy:** Git, GitHub, Postman, Vercel, Render  
-**AI & Integrations:** OpenAI / Gemini, Stability AI, Twilio, Stripe
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,js,html,css,tailwind,java,git,github,postman,vercel" />
+</p>
 
 ---
 
-## 📂 Featured Projects
+## 🚀 Featured Projects
 
-### 🔷 AveryCare — *AI-Powered Healthcare Platform*  
-**Tech:** MERN, Gemini AI, Twilio  
-**Live:** https://averycare-full.vercel.app · **Code:** https://github.com/AkshatKumarShrivastava1/Averycare-full  
-**Highlights:**
-- AI-powered call scheduling + notifications via Twilio.
-- Admin dashboard for user & call management.
-- Gemini AI generates call summaries to reduce manual logging.
+<details open>
+<summary><b>🩺 AveryCare – AI-Powered Healthcare Platform</b></summary>
+<p>
+<img align="right" width="300" src="https://github.com/AkshatKumarShrivastava1/Averycare-full/raw/main/demo.gif" alt="AveryCare Demo">
+  
+🔗 **Live:** [averycare-full.vercel.app](https://averycare-full.vercel.app)  
+📦 **Code:** [GitHub Repo](https://github.com/AkshatKumarShrivastava1/Averycare-full)
+
+- AI-powered call scheduling + Twilio notifications  
+- Admin dashboard for monitoring users & health data  
+- Gemini AI call summaries (reduced manual record-keeping by 60%)
+</p>
+</details>
+
+<details>
+<summary><b>✍️ QuickBlog – AI Blogging Platform</b></summary>
+<p>
+<img align="right" width="300" src="https://github.com/AkshatKumarShrivastava1/QuickBlog/raw/main/demo.gif" alt="QuickBlog Demo">
+
+🔗 **Live:** [quick-blog.vercel.app](https://quick-blog-cyan-sigma.vercel.app)  
+📦 **Code:** [GitHub Repo](https://github.com/AkshatKumarShrivastava1/QuickBlog)
+
+- AI-generated blog content + images using Gemini & Stability AI  
+- Real-time comments with MongoDB  
+- Admin panel for post management & moderation
+</p>
+</details>
+
+<details>
+<summary><b>🤖 QuickGPT – GPT Chat & Credits Platform</b></summary>
+<p>
+<img align="right" width="300" src="https://github.com/AkshatKumarShrivastava1/QuickGpt-AI-Powered-Project/raw/main/demo.gif" alt="QuickGPT Demo">
+
+🔗 **Live:** [quick-gpt.vercel.app](https://quick-gpt-ai-powered-project-ep8m.vercel.app)  
+📦 **Code:** [GitHub Repo](https://github.com/AkshatKumarShrivastava1/QuickGpt-AI-Powered-Project)
+
+- GPT-based chat with real-time streaming  
+- Stripe integration for secure credit purchase  
+- JWT-based authentication + session security
+</p>
+</details>
 
 ---
 
-### ✍️ QuickBlog — *AI Blogging Platform*  
-**Tech:** MERN, Gemini API, Stability AI  
-**Live:** https://quick-blog-cyan-sigma.vercel.app · **Code:** https://github.com/AkshatKumarShrivastava1/QuickBlog  
-**Highlights:**
-- Automated SEO content generation & image generation.
-- Admin panel for post moderation and analytics.
-- Real-time comments using MongoDB.
+## 📊 GitHub Analytics  
+
+<p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=AkshatKumarShrivastava1&show_icons=true&theme=radical&hide_border=true" />
+  <img height="150" src="https://github-readme-streak-stats.herokuapp.com?user=AkshatKumarShrivastava1&theme=radical&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkshatKumarShrivastava1&layout=compact&theme=radical&hide_border=true" />
+</p>
 
 ---
 
-### 🤖 QuickGPT — *GPT Chat & Credits Platform*  
-**Tech:** MERN, OpenAI, Stripe, JWT  
-**Live:** https://quick-gpt-ai-powered-project-ep8m.vercel.app/ · **Code:** https://github.com/AkshatKumarShrivastava1/QuickGpt-AI-Powered-Project  
-**Highlights:**
-- GPT-based chat with real-time responses.
-- Stripe integration for credit purchase and monetization flows.
-- Session security with JWT; tested with 50+ demo users.
+## 🧭 Fun Extras
+- 🏆 Check out my [LeetCode profile](https://leetcode.com/u/akshatshri03) – solving DSA problems daily  
+- 📝 I love writing about tech – soon starting my [blog](https://quick-blog-cyan-sigma.vercel.app)  
+- 🎯 Goal: Contribute to 5+ open-source projects by end of 2025  
 
 ---
 
-## 📈 GitHub Stats
-
-[![Akshat's GitHub stats](https://github-readme-stats.vercel.app/api?username=AkshatKumarShrivastava1&show_icons=true&theme=radical)](https://github.com/AkshatKumarShrivastava1)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AkshatKumarShrivastava1&layout=compact&theme=radical)](https://github.com/AkshatKumarShrivastava1)
-
-> Tip: If you want different themes, see https://github.com/anuraghazra/github-readme-stats
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AkshatKumarShrivastava1&label=Profile%20Views&color=blue&style=flat" alt="Profile views">
+</p>
 
 ---
-
-## 🚀 How to run my projects (quick start)
-> Example: Running a typical MERN project (replace repo, env vars as needed)
-
-```bash
-# Frontend
-git clone https://github.com/AkshatKumarShrivastava1/QuickGpt-AI-Powered-Project.git
-cd QuickGpt-AI-Powered-Project/client
-npm install
-# create .env with REACT_APP_API_URL and keys
-npm run dev
-
-# Backend (in another terminal)
-cd ../server
-npm install
-# create .env with MONGO_URI, JWT_SECRET, STRIPE_SECRET_KEY, OPENAI_KEY, TWILIO_*
-npm run dev
+<p align="center">⭐ If you like my work, consider <b>starring my repos</b> and <b>following me</b> on GitHub!</p>
 
